@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐢 I’m currently working on [turtled.net](https://turtled.net/).<br>👯 I’m looking to collaborate on [turtled.net](https://turtled.net/).<br>🤝 I’m looking for help with [turtled.net](https://turtled.net/).<br>🌱 I’m currently learning Python.<br>📫 How to reach me https://discord.com/users/713745288619360306<br>⚡ Fun fact I'm cool.
+🐢 I’m currently working on [ffa.gg](https://discord.ffa.gg/).<br>👯 I’m looking to collaborate on [ffa.gg](https://discord.ffa.gg/).<br>🤝 I’m looking for help with [ffa.gg](https://discord.ffa.gg/).<br>🌱 I’m currently learning Python.<br>📫 How to reach me https://discord.com/users/1109577556316917961<br>⚡ Fun fact I'm cool.
 
 
 ## 🌐 Socials:
