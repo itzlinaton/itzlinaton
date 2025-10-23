@@ -1,5 +1,9 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/162156251?v=4"  />
+  <img 
+    src="https://avatars.githubusercontent.com/u/162156251?v=4" 
+    height="150" 
+    style="border-radius: 50%; object-fit: cover;"
+  />
 </div>
 
 ###
@@ -32,7 +36,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on [Lunalite.net](https://namemc.com/server/lunalite.net?q=lunalite.net)</p>
+<p align="left">- 🔭 I’m working on (Lunalite.net)[https://namemc.com/server/lunalite.net?q=lunalite.net]</p>
 
 ###
 
