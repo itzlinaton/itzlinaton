@@ -85,7 +85,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ItzLinaton&show_icons=true&theme=dark" height="180" />
 </div>
 
