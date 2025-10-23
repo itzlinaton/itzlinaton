@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on (Lunalite.net)[https://namemc.com/server/lunalite.net?q=lunalite.net]</p>
+<p align="left">- 🔭 I’m working on [Lunalite.net](https://namemc.com/server/lunalite.net?q=lunalite.net)</p>
 
 ###
 
