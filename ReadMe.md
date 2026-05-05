@@ -1,9 +1,5 @@
 <div align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/u/162156251?v=4" 
-    height="150" 
-    style="border-radius: 50%; object-fit: cover;"
-  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/162156251?v=4"  />
 </div>
 
 ###
@@ -36,10 +32,7 @@
 
 ###
 
-<p align="left">
-  - 🔭 I’m working on 
-  <a href="https://namemc.com/server/lunalite.net?q=lunalite.net" target="_blank">Lunalite.net</a>
-</p>
+<p align="left">- 🔭 I’m working on [Lunalite.net](https://namemc.com/server/lunalite.net?q=lunalite.net)</p>
 
 ###
 
@@ -77,16 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ItzLinaton&show_icons=true&theme=dark" height="180" />
 </div>
 
 ###
