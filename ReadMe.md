@@ -19,7 +19,7 @@ I enjoy web design using frameworks such as React and Vite. I am currently worki
 <a href="https://www.github.com/ItzLinaton" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ItzLinaton?logo=github&style=for-the-badge&color=64748b&labelColor=27272a" /></a>
 
-### Stats
+### Statistical Data
 <table>
   <tr>
     <td>
@@ -31,10 +31,10 @@ src="https://img.shields.io/github/followers/ItzLinaton?logo=github&style=for-th
   </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItzLinaton&theme=default" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItzLinaton&theme=default&utcOffset=8" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItzLinaton&theme=default&utcOffset=8" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItzLinaton&theme=default" />
     </td>
   </tr>
 </table>
