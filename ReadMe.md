@@ -33,6 +33,8 @@ I enjoy web design using frameworks such as **React** and **Vite**. I am current
 * 🚀  I'm currently working on [**Lunalite.net**](http://discord.lunalite.net)
 * 🧠  I'm currently learning **Python**
 
+<hr>
+
 <!-- ============================= TECH STACK ============================= -->
 
 <h3 align="left">Tech Stack 🔧</h3>
@@ -70,6 +72,8 @@ I enjoy web design using frameworks such as **React** and **Vite**. I am current
   &nbsp;
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" title="Docker"/></a>
 </p>
+
+<hr>
 
 <!-- ============================= STATS DATA ============================= -->
 
