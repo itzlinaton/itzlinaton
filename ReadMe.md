@@ -78,22 +78,6 @@ I enjoy web design using frameworks such as **React** and **Vite**. I am current
 <!-- ============================= STATS DATA ============================= -->
 
 ### Statistical Data 📊
-<table>
-  <tr>
-    <td colspan="3" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzLinaton&theme=default" />
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItzLinaton&theme=default" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItzLinaton&theme=default&utcOffset=8" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItzLinaton&theme=default" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./github-metrics.svg" />
+</div>
