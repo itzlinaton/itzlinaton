@@ -22,6 +22,7 @@ jobs:
 
           base: header, metadata
           config_display: columns
+          config_timezone: Europe/Warsaw
 
           config_order: base.header, isocalendar, people, languages, activity, repositories, achievements
 
